@@ -1,0 +1,18 @@
+02-Mar-2024 18:14:25.068 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+02-Mar-2024 18:14:25.241 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:14:27.576 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:15:13.032 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+02-Mar-2024 18:15:13.145 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:15:14.444 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:15:34.257 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+02-Mar-2024 18:15:34.394 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:15:55.380 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:16:01.420 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+02-Mar-2024 18:16:01.528 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:18:06.903 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:18:13.090 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+02-Mar-2024 18:18:13.188 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:19:07.543 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:19:14.468 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+02-Mar-2024 18:19:14.600 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'springDispatcherServlet'
+02-Mar-2024 18:38:26.808 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springDispatcherServlet'

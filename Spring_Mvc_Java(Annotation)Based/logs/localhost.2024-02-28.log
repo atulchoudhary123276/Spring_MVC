@@ -1,0 +1,6 @@
+28-Feb-2024 10:46:09.551 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+28-Feb-2024 10:46:09.626 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'MyDs'
+28-Feb-2024 10:47:21.611 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'MyDs'
+28-Feb-2024 10:47:26.265 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+28-Feb-2024 10:47:26.374 INFO [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring FrameworkServlet 'MyDs'
+28-Feb-2024 16:03:28.628 INFO [localhost-startStop-2] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'MyDs'

@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [28/Feb/2024:10:46:19 +0530] "GET /spring-mvc-project HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Feb/2024:10:46:20 +0530] "GET /spring-mvc-project/ HTTP/1.1" 200 744
+0:0:0:0:0:0:0:1 - - [28/Feb/2024:10:47:29 +0530] "GET /spring-mvc-project HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Feb/2024:10:47:30 +0530] "GET /spring-mvc-project/ HTTP/1.1" 200 744
